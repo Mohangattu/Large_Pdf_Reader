@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.py[cod]
+*.sqlite3
+data/chroma_db/
+data/*.pdf
