@@ -60,5 +60,4 @@ streamlit run app.py
 ## Notes
 
 - The main runtime files are `app.py`, `chains.py`, and `ingest.py`.
-- `prompt.py` and `config.py` are not used in the current workflow.
 - If you want to refresh the database, delete `data/chroma_db` and rerun `python ingest.py`.
